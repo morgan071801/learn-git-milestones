@@ -267,9 +267,9 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji |😭
 1c | Link to markdown tables docs | [Markdowns](https://www.youtube.com/watch?v=yXY3f9jw7fg)
 2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/morgan071801/learn-git-milestones/commit/2f3a8b9c46b2b4fceef420db5ea80f116ac8b5b8)
-2c | Full path to your working directory |
+2c | Full path to your working directory | For this and the below the CLI crash course link was not working
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | ❤️
 2f | Link to `commit #4 from Atom` | [commit #4 from Github.com](https://github.com/morgan071801/learn-git-milestones/commit/37be1ce2ded7b35dd247e818dd9158f21f3692ce)
 3a | Link to `my-awesome-project` github.com repo page | [Repo](https://github.com/morgan071801/my-awesome-project/blob/main/index.html) 
 4a | Link to `my-awesome-project` github.io "project site" | [Project Site](https://github.com/morgan071801/my-awesome-project.git) How is this different?
