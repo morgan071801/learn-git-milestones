@@ -263,7 +263,7 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😂 
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/morgan071801/learn-git-milestones/blob/main/README.md)
-1d | What does `log` do? |
+1d | What does `log` do? | log gives a list of global options (?-help, q-quiet, v-verbose) and commands (collect, config, erase, show, stream, stats) 
 2a | 2nd Favorite emoji |
 1c | Link to markdown tables docs | [Markdowns](https://www.youtube.com/watch?v=yXY3f9jw7fg)
 2b | Link to `commit #2 from Github Desktop` |
