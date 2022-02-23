@@ -271,8 +271,8 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` | [commit #4 from Github.com](https://github.com/morgan071801/learn-git-milestones/commit/37be1ce2ded7b35dd247e818dd9158f21f3692ce)
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" | [Project Site](https://github.com/morgan071801/my-awesome-project.git)
+3a | Link to `my-awesome-project` github.com repo page | [Repo](https://github.com/morgan071801/my-awesome-project/blob/main/index.html) 
+4a | Link to `my-awesome-project` github.io "project site" | [Project Site](https://github.com/morgan071801/my-awesome-project.git) How is this different?
 ... | ... | Total: 0/12
 
 
