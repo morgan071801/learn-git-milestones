@@ -263,7 +263,7 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😂 
 1b | Link to `commit #1 from Github.com` | commit #1 from Github.com
-1c | Link to markdown tables docs |
+1c | Link to markdown tables docs |[commit #1 from Github.com](https://guides.github.com/features/mastering-markdown/)
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
