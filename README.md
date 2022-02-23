@@ -266,7 +266,7 @@ Item # | Description | Completed
 1d | What does `log` do? | log gives a list of global options (?-help, q-quiet, v-verbose) and commands (collect, config, erase, show, stream, stats)
 2a | 2nd Favorite emoji |😭
 1c | Link to markdown tables docs | [Markdowns](https://www.youtube.com/watch?v=yXY3f9jw7fg)
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/morgan071801/learn-git-milestones/commit/2f3a8b9c46b2b4fceef420db5ea80f116ac8b5b8)
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
