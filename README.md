@@ -1,7 +1,7 @@
 
 <img width="400" src="assets/img/logo-git-github.png">
 
-# Git Milestones
+# Git Milestones 😂
 
 Below is a list of tasks. By mid-semester, everyone should...
 
